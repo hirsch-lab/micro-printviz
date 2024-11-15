@@ -1,0 +1,5 @@
+numpy
+pandas<=2.1.4  # Avoid an annoying deprecation warning in 2.2.0
+matplotlib     # For plotting
+seaborn        # For plotting++
+mpremote       # Tool for interacting remotely with MicroPython devices
